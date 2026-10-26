@@ -1,0 +1,6 @@
+discord.py
+aiohttp
+python-dotenv
+
+
+USE PIP INSTALL -r requirements.txt OR ELSE!
